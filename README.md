@@ -24,3 +24,4 @@ npm run build
 Upload the generated `dist` folder at [Netlify Drop](https://app.netlify.com/drop)
 to publish the site and get a public URL. Add `public/profile.jpg` and
 `public/resume.pdf` before building if you want them included in the live site.
+# profile
